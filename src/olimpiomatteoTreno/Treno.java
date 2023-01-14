@@ -13,7 +13,7 @@ package olimpiomatteoTreno;
  * 
  * 
  * @author matteo olimpio
- * versione 1
+ * versione 2
  *
  */
 
